@@ -1,5 +1,5 @@
-#ifndef DECK_H
-#define DECK_H
+#ifndef SORT_H
+#define SORT_H
 
 #include <stdlib.h>
 
